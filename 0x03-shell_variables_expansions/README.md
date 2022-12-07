@@ -1,1 +1,1 @@
-this directory is for task Shell, init files, variables and expansions
+directory for shell tasksdirectory for shell tasks
