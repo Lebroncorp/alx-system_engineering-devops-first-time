@@ -1,2 +1,2 @@
-#!/bin/bash
-alias -p BEST='School'
+#!/bin/bash 
+BEST=School

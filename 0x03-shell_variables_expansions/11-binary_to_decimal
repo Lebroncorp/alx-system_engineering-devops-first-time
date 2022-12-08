@@ -1,2 +1,2 @@
 #!/bin/bash
-convert to base ten
+echo $((2#$BINARY))

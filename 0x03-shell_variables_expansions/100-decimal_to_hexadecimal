@@ -1,2 +1,2 @@
 #!/bin/bash
-ok
+printf "%x\n" $DECIMAL
